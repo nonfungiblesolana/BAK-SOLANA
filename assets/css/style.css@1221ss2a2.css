@@ -415,10 +415,9 @@ header .logo img {
 .wallet{
     display: none!important;
 }
-@media only screen and (max-width: 500px) {
+
     .token{
     width: 40%;
     margin-top: 50px;
     color: #fff;
     }
-}
