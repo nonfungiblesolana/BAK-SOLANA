@@ -420,3 +420,18 @@ header .logo img {
     margin-top: 50px;
     color: #fff;
     }
+
+    .wallet-adapter-button .wallet-adapter-button-start-icon {
+        margin-right: 5px;
+    }
+    
+    .wallet-adapter-button-start-icon {
+        margin-right: 12px;
+    }
+    .wallet-adapter-button-end-icon, .wallet-adapter-button-end-icon img, .wallet-adapter-button-start-icon, .wallet-adapter-button-start-icon img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 24px;
+        height: 24px;
+    }
