@@ -340,8 +340,7 @@ header .logo img {
     transition-duration: 0.3s;
     letter-spacing: 0.5px;
     justify-content: center !important;
-    background: transparent !important;
-    border: 3px solid rgb(255, 255, 255);
+    background: #e04291;
     margin-top: 20px;
     margin-bottom: 10px;
     transition: 0.5s;
